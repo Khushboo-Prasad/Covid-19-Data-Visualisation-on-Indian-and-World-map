@@ -19,3 +19,6 @@ For implementing this project you should have a prior knowledge of the following
    URL : https://www.mohfw.gov.in/
    
 
+Here is the preview of the final project: 
+
+![India](https://user-images.githubusercontent.com/54080068/100521832-1e842c00-31cc-11eb-8121-c18cc9c297df.png)
