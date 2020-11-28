@@ -18,7 +18,11 @@ For implementing this project you should have a prior knowledge of the following
 2. The covid-19 data is extracted from the website of Ministry of Health and Family Welfare, Government of India with help of BeautifulSoup.
    URL : https://www.mohfw.gov.in/
    
+   
 
-Here is the preview of the final project: 
+Here is the preview of how the final project looks like : 
 
-![India](https://user-images.githubusercontent.com/54080068/100521832-1e842c00-31cc-11eb-8121-c18cc9c297df.png)
+
+![India](https://user-images.githubusercontent.com/54080068/100521936-1aa4d980-31cd-11eb-8d92-0bea80c55448.png)
+![world](https://user-images.githubusercontent.com/54080068/100521940-1bd60680-31cd-11eb-8b71-fcfd129d5a75.png)
+
